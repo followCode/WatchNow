@@ -18,8 +18,10 @@ The frontend for the project can be found at : https://github.com/followCode/Wat
 - Angular
 - Amazon S3
 
-![WatchNow](https://github.com/followCode/WatchNow/assets/47175098/efd0df34-3ff0-43ec-9542-1a1245a481f2)
 
-![Screenshot (61)](https://github.com/followCode/WatchNow/assets/47175098/641b3a40-3df7-4b52-80b4-3ffd183704ac)
-![Screenshot (62)](https://github.com/followCode/WatchNow/assets/47175098/066dda19-bc84-4893-8cd8-1e329b106891)
 
+![WatchNow](https://github.com/followCode/WatchNow/assets/47175098/d6b12edf-4a6f-40de-933f-2929a44e7616)
+
+![Screenshot (61)](https://github.com/followCode/WatchNow/assets/47175098/46694c76-c0c0-4ddb-bbff-e786eb0690eb)
+
+![Screenshot (62)](https://github.com/followCode/WatchNow/assets/47175098/d351f8c4-7d3b-44aa-91c6-1c8038b380c5)
