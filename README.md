@@ -7,7 +7,7 @@ The frontend for the project can be found at : https://github.com/followCode/Wat
 - Uploading new videos
 - Uploading thumbnails for the uploaded videos
 - Like/dislike the videos
-- Suscribe to other users on the platform
+- Subscribe to other users on the platform
 - Adding comments to the videos
 - View watch history
 - View liked videos
